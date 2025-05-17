@@ -27,7 +27,7 @@ Ukrainian - Native
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48"/><br>Terraform</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48"/><br>Ansible</td>
     <td align="center"><img src="https://github.com/devicons/devicon/raw/master/icons/githubactions/githubactions-original.svg" width="48" height="48"/><br>CI/CD</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/ros/ros2/master/ros2_repos/doc/ros2-logo.png" width="48" height="48"/><br>ROS 2</td>
+    <td align="center"><br><strong>ROS 2</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br>MySQL</td>
@@ -38,8 +38,6 @@ Ukrainian - Native
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48"/><br>Microsoft SQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/><br>Visual Studio</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" width="48" height="48"/><br>AI</td>
+    <td align="center"><br><strong>AI</strong></td>
   </tr>
 </table>
-
-
